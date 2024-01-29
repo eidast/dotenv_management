@@ -1,0 +1,17 @@
+{
+  "name": "dotenv_management",
+  "version": "1.0.0",
+  "description": "This is a demo about how to use dotenv enviroment in a simple app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Alexander Moreno Delgado",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.4.1",
+    "express": "^4.18.2"
+  }
+}
